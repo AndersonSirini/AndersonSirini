@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndersonSirini
-- 👀 I’m interested in Python, Back-End, Design Patterns
+- 👀 I’m interested in Python, Back-End, Design Patterns, Java, Javascript
 - 🌱 I’m currently learning Object-Orientation
 - 📫 How to reach me ... LinkedIn. https://www.linkedin.com/in/anderson-sirini-dos-santos-1a3a59227
 
